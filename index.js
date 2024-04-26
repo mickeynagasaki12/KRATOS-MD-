@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃';
 
-const owner = process.env.DEV || '254703542294'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254740782927'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟  \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 ✞︎𝙎𝙊𝙈𝙄𝙔𝘼 𝙉𝙀𝙂𝙄✞︎  \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
@@ -734,7 +734,7 @@ function _0x4dc1() {
       console.log(color("Congrats, drex ai has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as @drex_mose", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁` });
     }
     // console.log('Connected...', update)
   });
