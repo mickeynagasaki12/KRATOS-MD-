@@ -46,11 +46,11 @@ You will need an openai API key for AI features to work.
 
 # SET-UP
 
-Linking/Pairing:[https://replit.com/@pesguru02/Pairing-Classic-Ai]
+Linking/Pairing:[https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot]
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="[https://replit.com/@pesguru02/Pairing-Classic-Ai](https://replit.com/@pesguru02/Pairing-Classic-Ai)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
+<h2 align="left">  <a href="[https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot](https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
 </a>
 </h2>
 
