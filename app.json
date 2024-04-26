@@ -1,6 +1,6 @@
 {
-  "name": "Classic-ai",
-  "description": "☯☯𝐜𝐥𝐚𝐬𝐬𝐢𝐜 𝐯2☯☯",
+  "name": "KRATOS-MD",
+  "description": "✞𝐊𝐫𝐚𝐭𝐨𝐬-𝐯9︎✞︎",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,13 +14,13 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Samue-l1/Black-Mamba-Ai#readme",
-  "repository": "https://github.com/Samue-l1/Black-Mamba-Ai.git",
-  "logo": "https://telegra.ph/file/de1e1073b8a908e9af1d6.jpg",
+  "website": "https://github.com/mickeynagasaki12/KRATOS-MD-#readme",
+  "repository": "https://github.com/mickeynagasaki12/KRATOS-MD-.git",
+  "logo": "https://telegra.ph/file/9c4c614cda19d27989d04.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of Classic-ai Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of Kratos-ai Ex: . , / , # , & etc. Put any symbol",
        "required": true
 
     },
