@@ -524,7 +524,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./kratos.mp4'),
+                        video: fs.readFileSync('./somiya.mp4'),
                         caption: cap,
 			sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",   
                         gifPlayback: true
