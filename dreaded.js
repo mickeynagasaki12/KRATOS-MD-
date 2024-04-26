@@ -385,25 +385,25 @@ case "help":
 
 let cap = `┏━━━━━━━━━━━━━━━━━━┓
 ┃     ▇ ◆  𝐊𝐑𝐀𝐓𝐎𝐒 𝐈𝐗  ◆ █
-┃☙┏━━━━━━━━━━━━━━━┛
-┃☙┃ 𝗢𝘄𝗻𝗲𝗿 : 𝐒𝐎𝐌𝐈𝐘𝐀_𝐍𝐄𝐆𝐈
-┃☙┃ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
-┃☙┃ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
-┃☙┃ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
-┃☙┃ 𝗥𝗮𝗺 : 64GB of 256GB
-┃☙┃ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
-┃☙┃ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${prefix}
-┃☙┃ 𝗦𝗽𝗲𝗲𝗱 :  *${dreadedspeed.toFixed(4)}* 𝐌𝐬
-┃☙┃
-┃☙┃ ▎▍▌▌▉▏▎▌▉▐▏▌
-┃☙┃┃▎▍▌▌▉▏▎▌▉▐▏▌
-┃☙┃ 
-┃☙┃ ♝ 𝐊𝐑𝐀𝐓𝐎𝐒 𝐈𝐗 ♗
-┃☙┗━━━━━━━━━━━━━━᪥
+┃✔︎┏━━━━━━━━━━━━━━━┛
+┃✔︎┃ 𝗢𝘄𝗻𝗲𝗿 : 𝐒𝐎𝐌𝐈𝐘𝐀_𝐍𝐄𝐆𝐈
+┃✔︎┃ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
+┃✔︎┃ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
+┃✔︎┃ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
+┃✔︎┃ 𝗥𝗮𝗺 : 64GB of 256GB
+┃✔︎┃ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
+┃✔︎┃ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${prefix}
+┃✔︎┃ 𝗦𝗽𝗲𝗲𝗱 :  *${dreadedspeed.toFixed(4)}* 𝐌𝐬
+┃✔︎┃
+┃✔︎┃ ▎▍▌▌▉▏▎▌▉▐▏▌
+┃✔︎┃┃▎▍▌▌▉▏▎▌▉▐▏▌
+┃✔︎┃ 
+┃✔︎┃ ☈ 𝐊𝐑𝐀𝐓𝐎𝐒 𝐈𝐗 ☈
+┃✔︎┗━━━━━━━━━━━━━━᪥
 ┗━━━━━━━━━━━━━━━━━᪥
 
 ┏━━━━━━━━━━━━━━━━━━┓
-┃   ⁍ ֎ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥  ֎ ⁍
+┃   ⁍ ☭ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥  ☭ ⁍
 ┃☙┏━━━━━━━━━━━━━━━┛
 ┃☙┃
 ┃☙┃${prefix}𝐀𝐝𝐦𝐢𝐧.
@@ -420,7 +420,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 ┗━━━━━━━━━━━━━━━━━᪥
 
 ┏━━━━━━━━━━━━━━━━━━┓
-┃       ⁍ ֍ 𝗘𝗗𝗜𝗧 ֎ ⁍
+┃       ⁍   𝗘𝗗𝗜𝗧  ⁍
 ┃☙┏━━━━━━━━━━━━━━━┛
 ┃☙┃
 ┃☙┃${prefix}𝐒𝐭𝐢𝐜𝐤𝐞𝐫.
@@ -544,7 +544,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚_𝐀𝐈.jpg'),
+                                thumbnail: fs.readFileSync('./kratos.jpeg'),
                                 sourceUrl: 'https://wa.me/254742491666?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1120,7 +1120,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/0bd9371e6867cd15018b7.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Samue-l1/Black-Mamba-Ai\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝐒𝐎𝐌𝐈𝐘𝐀⸼` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/mickeynagasaki12/KRATOS-MD-\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 without scanning any qr code\n\n [https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot]\n\nMade on Earth by 𝐒𝐎𝐌𝐈𝐘𝐀⸼` });
 
    break;
                                                   
