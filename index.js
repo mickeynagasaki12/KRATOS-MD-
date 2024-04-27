@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("Classic-ai", {
+      figlet.textSync("Kratos-ai", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
