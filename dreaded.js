@@ -1771,7 +1771,7 @@ const audiovn = "./somiya.mp3";
           externalAdReply: {
           title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐊𝐑𝐀𝐓𝐎𝐒 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
           body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
-          thumbnailUrl: "https://telegra.ph/file/6ac60544dabe7d3c2c84a.jpg",
+          thumbnailUrl: "https://a.uguu.se/PMANDLki.mp4",
           sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
           mediaType: 1,
           renderLargerThumbnail: true
