@@ -1769,9 +1769,9 @@ const audiovn = "./somiya.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐊𝐑𝐀𝐓𝐎𝐒 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          title: "𝐁𝐎𝐖 𝐃𝐎𝐖𝐍 𝐓𝐎,𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 𝐀𝐍𝐃 𝐊𝐈𝐂𝐊𝐈𝐍𝐆☔",
           body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
-          thumbnailUrl: "https://a.uguu.se/PMANDLki.mp4",
+          thumbnailUrl: "https://telegra.ph/file/6ac60544dabe7d3c2c84a.jpg",
           sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
           mediaType: 1,
           renderLargerThumbnail: true
