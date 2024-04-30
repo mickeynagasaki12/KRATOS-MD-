@@ -1120,7 +1120,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/0bd9371e6867cd15018b7.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/mickeynagasaki12/KRATOS-MD-\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 without scanning any qr code\n\n [https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot]\n\nMade on Earth by 𝐒𝐎𝐌𝐈𝐘𝐀⸼` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/mickeynagasaki12/KRATOS-MD-\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃 without scanning any qr code\n\n [https://replit.com/@mickeynagasaki1/Pairing-Kratos-MD]\n\nMade on Earth by 𝐒𝐎𝐌𝐈𝐘𝐀⸼` });
 
    break;
                                                   
@@ -1745,7 +1745,7 @@ break;
 case "ping": case "speed": { 
 
 	await loadings ()
-         m.reply (`\✧𝐏𝐨𝐧𝐠\n *${dreadedspeed.toFixed(4)}* *ms*`); 
+         m.reply (`\✧𝐩𝐢𝐧𝐠𝐢𝐧𝐠 𝐛𝐫𝐮𝐡\n *${dreadedspeed.toFixed(4)}* *ms*`); 
          } 
  break; 
   
