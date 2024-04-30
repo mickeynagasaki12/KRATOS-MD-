@@ -46,11 +46,11 @@ You will need an openai API key for AI features to work.
 
 # SET-UP
 
-Linking/Pairing:[https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot]
+Linking/Pairing:[https://replit.com/@mickeynagasaki1/Pairing-Kratos-MD]
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="[https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot](https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
+<h2 align="left">  <a href="[https://replit.com/@mickeynagasaki1/Pairing-Kratos-MD](https://replit.com/@mickeynagasaki1/Pairing-Kratos-MD)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
 </a>
 </h2>
 
@@ -81,7 +81,7 @@ Linking/Pairing:[https://replit.com/@mickeynagasaki1/Pairing-Kratos-Bot]
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/263785189764) via WhatsApp or [here](mickeynagasaki12@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254740782927) via WhatsApp or [here](mickeynagasaki12@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
