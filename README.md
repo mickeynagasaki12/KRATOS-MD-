@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://telegra.ph/file/e6f62ca0b578519895e91.jpg" width="650" height="500"/>
+<img src="https://telegra.ph/file/b3a38965180e003164786.jpg" width="650" height="500"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=KRATOS-MD+WHATSAPP+BOT" alt="">
