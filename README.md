@@ -74,7 +74,12 @@ Linking/Pairing:[https://replit.com/@mickeynagasaki1/Pairing-Kratos-MD]
 - Add the environmental variables in .env into your hosting site for bot to work.
 </h2>
  
-#  https://dashboard.heroku.com/new?template=https://github.com/mickeynagasaki12/KRATOS-MD-
+
+
+## DEPLOY IN HEROKU
+
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
+ https://dashboard.heroku.com/new?template=https://github.com/mickeynagasaki12/KRATOS-MD-
 
     
  # 
