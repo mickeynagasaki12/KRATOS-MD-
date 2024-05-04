@@ -78,7 +78,7 @@ Linking/Pairing:[https://replit.com/@mickeynagasaki1/Pairing-Kratos-MD]
 
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mickeynagasaki12/KRATOS-MD-)
  https://dashboard.heroku.com/new?template=https://github.com/mickeynagasaki12/KRATOS-MD-
 
     
