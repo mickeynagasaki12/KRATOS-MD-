@@ -3,7 +3,7 @@ const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
 let botname = process.env.BOTNAME || '𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃';
 
-const owner = process.env.DEV || '254762387363'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || 254740782927; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
