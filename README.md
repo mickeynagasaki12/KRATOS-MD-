@@ -13,9 +13,9 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KRATOS-MD-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/"254762387363"yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-+nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/"254762387363"yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃- +nishow+venye+nitadeploy+KRATOS-MD-'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/254762387363"yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-+nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/25476238763yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃- +nishow+venye+nitadeploy+KRATOS-MD-'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/"254762387363"yohyoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
+<a href="https://wa.me/254762387363yohyoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/KRATOS-MD-/network/members"><img title="Forks" src="https://img.shields.io/github/for/mickeynagasaki12/KRATOS-MD-?color=yellow&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/KRATOS-MD-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/KRATOS-MD-/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
@@ -92,7 +92,7 @@ Linking/Pairing:[https://replit.com/@mickeynagasaki1/Pairing-Kratos-MD]
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/"254762387363") via WhatsApp or [here](mickeynagasaki12@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254762387363) via WhatsApp or [here](mickeynagasaki12@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
