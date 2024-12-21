@@ -15,7 +15,7 @@
 <p align="center">
 <a href="'https://wa.me/+254762387363yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-+nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/244703542294yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃- +nishow+venye+nitadeploy+KRATOS-MD-'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/254762387363yohyoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
+<a href="https://wa.me/!254762387363yohyoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/KRATOS-MD-/network/members"><img title="Forks" src="https://img.shields.io/github/for/mickeynagasaki12/KRATOS-MD-?color=yellow&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/KRATOS-MD-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/KRATOS-MD-/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
