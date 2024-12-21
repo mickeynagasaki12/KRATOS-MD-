@@ -83,7 +83,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'𝐊𝐫𝐚𝐭𝐨𝐬-𝐚𝐢';
     const packname = process.env.STICKER_PACKNAME || '𝐊𝐫𝐚𝐭𝐨𝐬';
-const dev = process.env.DEV || '254742491666'
+const dev = process.env.DEV || '254762387363'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -547,7 +547,7 @@ client.sendMessage(m.chat, {
                                 title: `𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./kratos.jpeg'),
-                                sourceUrl: 'https://wa.me/254742491666?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254762387363?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
