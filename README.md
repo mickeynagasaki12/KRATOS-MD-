@@ -1,6 +1,6 @@
 𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝕂ℝ𝔸𝕋𝕆𝕊-𝕄𝔻;WHATSAPP+BOT;CREATED+BY+𝕊𝕆𝕄𝕀𝕐𝔸 ℕ𝔼𝔾𝕀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝕂ℝ𝔸𝕋𝕆𝕊-𝕄𝔻;WHATSAPP+BOT;CREATED+BY+dexterous" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by ✞︎𝐒𝐎𝐌𝐈𝐘𝐀✞︎***
+***Made on Earth by ✞︎dexterous✞︎***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
