@@ -13,7 +13,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KRATOS-MD-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/254762387363"yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-+nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/25476238763yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃- +nishow+venye+nitadeploy+KRATOS-MD-'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/254762387363yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-+nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/25476238763yoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃- +nishow+venye+nitadeploy+KRATOS-MD-'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/254762387363yohyoh+𝐊𝐑𝐀𝐓𝐎𝐒-𝐌𝐃-"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/KRATOS-MD-/network/members"><img title="Forks" src="https://img.shields.io/github/for/mickeynagasaki12/KRATOS-MD-?color=yellow&style=flat-square"></a>
